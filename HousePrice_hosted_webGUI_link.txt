@@ -1,0 +1,6 @@
+Name: Ifemide Oluwafunmi Olusola
+Matric Number: 22CG031927
+Machine Learning Algorithm Used: Random Forest Regressor
+Model Persistence Method: Joblib (.pkl)
+Live URL: (to be added after deployment)
+GitHub Repository Link: (to be added after upload)
